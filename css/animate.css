@@ -1,0 +1,26 @@
+.rect {
+    background-color: lightskyblue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 30px;
+    left: 500px;
+}
+
+.time {
+    background-color: lightslategray;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 340px;
+    left: 600px;
+}
+
+.typo{
+    background-color: #ff6347;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 470px;
+    left: 500px;
+}
